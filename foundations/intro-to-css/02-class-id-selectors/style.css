@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+.odd-ele{
+    background: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}/* Add CSS Styling */
+
+#two-ele{
+    color: blue;
+    font-size: 36px;
+}
+#three-ele, #four-ele{
+    font-size:24px;
+}
+#four-ele{
+    background-color: green;
+    font-weight: bold;
+}
+
